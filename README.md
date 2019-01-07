@@ -6,3 +6,4 @@ Jupyter Notebook with Sklearn built in data set is considered for this example
 And, I will walk you through Linear Regression using the above dataset in the "BostonLinearRegression-Venkat.ipynb" example code.
 Now, I am going to consider Iris dataset for exploring the Logistic Regression and KNN Classifier
 For the above Logistic Regression and KNN Classifier, the example code can be found in "ML Logistic Regression-KNN-Venkat.ipynb"
+Next, I am going to explore K-means Clustering
