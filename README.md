@@ -7,3 +7,5 @@ And, I will walk you through Linear Regression using the above dataset in the "B
 Now, I am going to consider Iris dataset for exploring the Logistic Regression and KNN Classifier
 For the above Logistic Regression and KNN Classifier, the example code can be found in "ML Logistic Regression-KNN-Venkat.ipynb"
 Next, I am going to explore K-means Clustering
+For this, I am planning to experiment with built in random sample generators with make_blobs
+For the above KMeans Clustering , the example code can be found in "ML-K-Means Clustering-Venkat.ipynb"
