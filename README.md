@@ -15,3 +15,4 @@ In this initially I had 10 dimensions and by using PCA algorithm, I want to redu
 As we are aware, we use pipelines for automating Machine Learning Workflows.
 Now, I would like to explore pipeline.Python sklearn provides a Pipeline utility to help automate machine learning workflows.
 Pipeline is mainly used to combine multiple models or estimators.Note that all models in the pipeline must be transformers.The last model can either be a transformer,classifier,regressor or any other such object.
+For the above pipeline demonstration , the example code can be found in "ML-pipeline-Venkat.ipynb"
