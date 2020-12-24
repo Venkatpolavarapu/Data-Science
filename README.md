@@ -17,3 +17,5 @@ Now, I would like to explore pipeline.Python sklearn provides a Pipeline utility
 Pipeline is mainly used to combine multiple models or estimators.Note that all models in the pipeline must be transformers.The last model can either be a transformer,classifier,regressor or any other such object.
 For the above pipeline demonstration , the example code can be found in "ML-pipeline-Venkat.ipynb"
 Thank You:Google Colab,Databricks Community Edition
+Overall it covers AWS Sage maker,LSTM,RNNs,Tensorflow,Keras,Azure ML Studio,MLOps,OpenCV etc.,
+Sequence to Sequence Prediction using IMDB Movie Review Dataset using Keras in Python-Venkat -RNN Using Keras.ipynb
